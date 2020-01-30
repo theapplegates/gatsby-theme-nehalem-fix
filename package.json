@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "workspaces": [
+    "theme",
+    "demo"
+  ],
+  "dependencies": {
+    "gatsby": "^2.19.10",
+    "gatsby-plugin-sharp": "^2.4.4",
+    "gatsby-react-router-scroll": "^2.1.20",
+    "react-dom": "^16.12.0"
+  }
+}
